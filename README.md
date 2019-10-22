@@ -1,9 +1,9 @@
 # Palestra PyBr[15]
 
->> Ciência de Dados no Cotidiano - O que os dados dizem sobre o real comportamento da população?
+> Ciência de Dados no Cotidiano - O que os dados dizem sobre o real comportamento da população?
 
 * [How Much Data is Generated Each Day?](https://www.visualcapitalist.com/how-much-data-is-generated-each-day/)
-* [Parcerias românticas e a dispersão de laços sociais: uma análise em rede do status de relacionamento no Facebook](https://dl.acm.org/citation.cfm?id=2531642)*
+* [Parcerias românticas e a dispersão de laços sociais: uma análise em rede do status de relacionamento no Facebook](https://dl.acm.org/citation.cfm?id=2531642)
 
 * [Lei Geral de Proteção de Dados (LGPD)](https://nic.br/media/docs/publicacoes/3/13255120191015-revistabr-ano-10-2019-edicao16.pdf)
 
