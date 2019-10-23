@@ -2,7 +2,7 @@
 
 > Ciência de Dados no Cotidiano - O que os dados dizem sobre o real comportamento da população?
 
-<img src='capa.png/>
+<img src='capa.png'/>
 
 * [Screen time stats 2019: Here’s how much you use your phone during the workday](https://blog.rescuetime.com/screen-time-stats-2018/)
 * [Shock! Horror! Do you know how much time you spend on your phone?](https://www.theguardian.com/lifeandstyle/2019/aug/21/cellphone-screen-time-average-habits)
