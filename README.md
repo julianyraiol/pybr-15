@@ -2,6 +2,7 @@
 
 > Ciência de Dados no Cotidiano - O que os dados dizem sobre o real comportamento da população?
 
+* [Screen time stats 2019: Here’s how much you use your phone during the workday](https://blog.rescuetime.com/screen-time-stats-2018/)
 * [How Much Data is Generated Each Day?](https://www.visualcapitalist.com/how-much-data-is-generated-each-day/)
 * [Parcerias românticas e a dispersão de laços sociais: uma análise em rede do status de relacionamento no Facebook](https://dl.acm.org/citation.cfm?id=2531642)
 
