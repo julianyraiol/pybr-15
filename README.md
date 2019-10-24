@@ -12,3 +12,5 @@
 * [Lei Geral de Proteção de Dados (LGPD)](https://nic.br/media/docs/publicacoes/3/13255120191015-revistabr-ano-10-2019-edicao16.pdf)
 * [Donald Trump x Hilary Clinton](http://static1.squarespace.com/static/51d894bee4b01caf88ccb4f3/t/51d89ab3e4b05a25fc1f39d4/1373149875469/RacialAnimusAndVotingSethStephensDavidowitz.pdf)
 * [Assuntos mais pesquisados em 2018 no Brasil](https://trends.google.com.br/trends/yis/2018/BR/)
+
+* [Python, ciência dos dados e redes sociais: uma combinação poderosa - Alice Adativa](https://www.youtube.com/watch?v=ocMgkkJpaiA)
