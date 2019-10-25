@@ -14,3 +14,5 @@
 * [Assuntos mais pesquisados em 2018 no Brasil](https://trends.google.com.br/trends/yis/2018/BR/)
 
 * [Python, ciência dos dados e redes sociais: uma combinação poderosa - Alice Adativa](https://www.youtube.com/watch?v=ocMgkkJpaiA)
+
+* [Livro Todo Mundo Mente](https://www.amazon.com.br/Todo-mundo-mente-Seth-Stephens-Davidowitz/dp/8550802174)
